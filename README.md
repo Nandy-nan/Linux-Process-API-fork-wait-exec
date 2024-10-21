@@ -2,6 +2,7 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
+NAME:NANDHANA.R REG NO: 212223040124
 
 
 # AIM:
@@ -61,6 +62,7 @@ int main(void)
 
 
 ##OUTPUT
+
 ![image](https://github.com/user-attachments/assets/f2ecbecb-1ffa-4b96-81af-115d7d59fbfe)
 
 
@@ -112,6 +114,7 @@ int main()
 
 
 ##OUTPUT
+
 ![image](https://github.com/user-attachments/assets/7ce837d1-5f89-49da-a984-a5f2b17ffe1d)
 
 
@@ -177,6 +180,7 @@ int main()
 
 
 ##OUTPUT
+
 ![image](https://github.com/user-attachments/assets/658d19cc-7f2f-4ded-b1ba-77b499125d54)
 
 
